@@ -1,2 +1,21 @@
-# UTDD-Sector-Package
-Data source for UTDD Sector Package on Global Nav Generator(GNG)
+# TJK-Sector-Package
+Data source for Tajikistan (UTDD) Sector Package on Global Nav Generator(GNG)
+
+Full package is available on [files.aero-nav.com](https:/files.aero-nav.com/UTDD)
+
+# How to contribute?
+To suggest your changes for the sector package simply make relevant changes in your fork and create pull request with full descriprtion of the proposed changes.
+We would also really appreciate your help with the already known [issues](https://github.com/users/ziplock1/projects/10)
+
+> [!TIP]
+> If you are new to sector development, then check our [wiki](https://github.com/ziplock1/TJK-Sector-Package/wiki) for more information!
+
+# Credits
+**Nikita Zikeev (1475694) - ULLL**
+
+<a href="https://discord.com/users/1066347112595456010"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="70" align="center"><a/>
+<a href="https://t.me/nzikeev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="70" align="center"><a/>
+
+**Evgeny Vygornistky (862634) - VATRUS1**
+
+<a href="https://discord.com/users/770573674843209758"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="70" align="center"><a/>
