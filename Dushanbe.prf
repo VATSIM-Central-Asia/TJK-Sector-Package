@@ -4,6 +4,7 @@ RecentFiles	Recent3	\UTDD\ASR\GND\Kulob_GMC.asr
 RecentFiles	Recent4	\UTDD\ASR\GND\Khudjand_GMC.asr
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
+Settings	alias	\UTDD\Alias\alias.txt
 Settings	airlines	\UTDD\ICAO\ICAO_Airlines.txt
 Settings	airports	\UTDD\ICAO\ICAO_Airports.txt
 Settings	aircraft	\UTDD\ICAO\ICAO_Aircraft.txt
@@ -65,7 +66,7 @@ TeamSpeakVccs	CaptureDevice	Микрофон (5- JBL Quantum810 Wireless Chat)
 TeamSpeakVccs	Ts3NickName	Your CID
 Plugins	Plugin0	\UTDD\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1	\UTDD\Plugins\Ground-Radar-Plugin\GRplugin.dll
-Plugins	Plugin2	\UTDD\Plugins\Discord\DiscordEuroscope.dll
+Plugins	Plugin2	\UTDD\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 Plugins	Plugin3	\UTDD\Plugins\Timer\ESTimers.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1Display0	Ground Radar display
